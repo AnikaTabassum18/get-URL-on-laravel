@@ -1,0 +1,14 @@
+get route URL ::
+
+
+For full URL 
+
+{{URL::full()}}
+
+
+for current URL 
+
+{{URL::current()}}
+
+for previous page 
+{{URL::previous()}}
