@@ -12,3 +12,9 @@ for current URL
 
 for previous page 
 {{URL::previous()}}
+
+
+
+for go fixed route
+
+URL:: to('/route_name')
